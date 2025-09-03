@@ -35,7 +35,7 @@
     "@azure/identity": "3.0.0",
     "@azure/storage-blob": "12.14.0",
     "@google-cloud/storage": "7.1.0",
-    "aws-sdk": "2.1459.0",
+    "aws-sdk": "2.1692.0",
     "axios": "1.5.0",
     "google-auth-library": "9.0.0"
   }
